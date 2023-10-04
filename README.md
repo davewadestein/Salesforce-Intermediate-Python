@@ -1,5 +1,7 @@
 # Salesforce-Intermediate-Python
 
+* Me: dave@developintelligence.com
+
 * recordings
   * __Day 2__ https://pluralsight.zoom.us/rec/share/HCz2mRcWvGslCo1mMfhT5F4RCHBfZgPxuDJ6wjybgVRs0JGkMtLYbkIS6Ddi1Qmg.xuXge6-qB9ONac3d
     * Passcode: D7x+D.S*
